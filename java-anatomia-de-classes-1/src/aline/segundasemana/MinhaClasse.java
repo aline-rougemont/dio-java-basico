@@ -1,3 +1,6 @@
+package aline.segundasemana;
+
+
 public class MinhaClasse {
 
 
@@ -16,3 +19,4 @@ public class MinhaClasse {
     }
 
 }
+
